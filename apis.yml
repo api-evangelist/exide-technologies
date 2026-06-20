@@ -8,7 +8,7 @@ description: >-
   worldwide. No public developer APIs have been identified; ordering and
   product data are provided through B2B portals and distributor channels.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Batteries
   - Manufacturing
