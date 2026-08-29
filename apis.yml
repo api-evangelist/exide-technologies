@@ -8,6 +8,17 @@ description: >-
   worldwide. No public developer APIs have been identified; ordering and
   product data are provided through B2B portals and distributor channels.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
