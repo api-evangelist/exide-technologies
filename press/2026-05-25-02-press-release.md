@@ -1,7 +1,9 @@
 ---
 title: Press Release
 url: https://www.exidegroup.com/sites/default/files/2025-06/dcw-frankfurt-2025-pr-en.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exide Technologies" press release artificial intelligence'
 position: 2
 source: serpapi-google
